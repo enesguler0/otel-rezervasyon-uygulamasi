@@ -13,7 +13,7 @@ Depoyu yerel makinenize klonlayarak başlayın:
 ```bash
 git clone https://github.com/enesguler0/otel-rezervasyon-uygulamasi.git
 cd mern-booking-app
-
+```
 ## Backend Konfigürasyonu
 
 1. **Ortam Dosyaları**: `backend` klasörüne gidin ve `.env` dosyası oluşturun. Bu dosyaya  aşağıdaki içeriği ekleyin:
