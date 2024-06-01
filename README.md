@@ -1,8 +1,8 @@
-# MERN Rezervasyon Uygulamasını Kurma
+# Otel Rezervasyon Uygulamasını Kurma
 
-Bu kılavuz, MERN Rezervasyon Uygulamasını yerel makinenize kurma sürecinde size rehberlik edecektir.
+Bu kılavuz, Otel Rezervasyon Uygulamasını yerel makinenize kurma sürecinde size rehberlik edecektir.
 
-## Önkoşullar
+## Ön koşullar
 
 Başlamadan önce, sisteminizde Node.js yüklü olduğundan emin olun.
 
